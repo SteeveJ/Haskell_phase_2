@@ -37,7 +37,6 @@ exemple2 = Noeud 99
                             (Noeud 381 
                                       (Noeud 250 Vide Vide) 
                                       Vide))
-
 --Question 2 recherche noeud
 
 recherche :: Integer -> Arbre -> Bool 
